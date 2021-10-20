@@ -1,7 +1,7 @@
 <?php
 	/*Datos de la aplicacion*/
 	$site_name="Unidad Médica UTPL";
-	$url_site="http://127.0.0.1/tutoria1/";
+	$url_site="#";
 
 	/*datos de la base de datos*/
 	$db_usr="root";
